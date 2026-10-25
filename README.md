@@ -4,7 +4,7 @@ A modular, step-by-step implementation of the classic **Transformer** architectu
 
 ---
 
-## 🏗️ Project Architecture & Components
+##  Project Architecture & Components
 
 This project implements all core components of the Transformer model from the ground up:
 
